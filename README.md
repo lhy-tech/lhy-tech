@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hy's%20Data%20Space🎨&fontSize=50&fontColor=d6ace6)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/lhy-tech)
+[![Py](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)](github.com/lhy-tech)
