@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 [![Py](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)](github.com/lhy-tech)
 [![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=flat-square&logo=MySQL&logoColor=black)](github.com/lhy-tech)
 [![R](https://img.shields.io/badge/R-F7DF1E?style=flat-square&logo=R&logoColor=black)](github.com/lhy-tech)
+[![AWS](https://img.shields.io/badge/AWS-F7DF1E?style=flat-square&logo=AWS&logoColor=black)](github.com/lhy-tech)
+
 
 
