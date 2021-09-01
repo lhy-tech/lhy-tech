@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=호연's%20Data%20Space🎨&fontSize=50&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=hy's%20Data%20Space🎨&fontSize=50&fontColor=d6ace6)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/lhy-tech)
