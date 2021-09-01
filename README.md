@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 [![R](https://img.shields.io/badge/R-F7DF1E?style=flat-square&logo=R&logoColor=black)](github.com/lhy-tech)
 [![DOCKER](https://img.shields.io/badge/DOCKER-F7DF1E?style=flat-square&logo=DOCKER&logoColor=black)](github.com/lhy-tech)
 [![Linux](https://img.shields.io/badge/Linux-F7DF1E?style=flat-square&logo=Linux&logoColor=black)](github.com/lhy-tech)
+[![PowerBI](https://img.shields.io/badge/PowerBI-F7DF1E?style=flat-square&logo=PowerBI&logoColor=black)](github.com/lhy-tech)
 [![AWS](https://img.shields.io/badge/AWS-F7DF1E?style=flat-square&logo=AWS&logoColor=black)](github.com/lhy-tech)
 [![QuickSight](https://img.shields.io/badge/QuickSight-F7DF1E?style=flat-square&logo=QuickSight&logoColor=black)](github.com/lhy-tech)
-[![PowerBI](https://img.shields.io/badge/PowerBI-F7DF1E?style=flat-square&logo=PowerBI&logoColor=black)](github.com/lhy-tech)
 [![GoogleAnaytics](https://img.shields.io/badge/GoogleAnaytics-F7DF1E?style=flat-square&logo=GoogleAnaytics&logoColor=black)](github.com/lhy-tech)
 
 
